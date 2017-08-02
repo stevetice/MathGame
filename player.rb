@@ -1,0 +1,3 @@
+
+NAME
+STATE/LIVES = 3
